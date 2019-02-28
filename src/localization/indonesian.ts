@@ -537,5 +537,5 @@ export var idStrings = {
     regex: "regular expression"
   }
 };
-Uncomment this line on creating a translation file. You should replace "en" and enStrings with your locale ("fr", "de" and so on) and your variable.
-//editorLocalization.locales["id"] = idStrings;
+// Uncomment this line on creating a translation file. You should replace "en" and enStrings with your locale ("fr", "de" and so on) and your variable.
+editorLocalization.locales["id"] = idStrings;
